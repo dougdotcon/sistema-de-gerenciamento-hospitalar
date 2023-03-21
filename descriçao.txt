@@ -1,0 +1,33 @@
+Aplica��o: Sistema de Gerenciamento Hospitalar
+
+Descri��o: A aplica��o ser� um Sistema de Gerenciamento Hospitalar, que visa facilitar o controle de pacientes, consultas, exames e outras informa��es relevantes para o bom funcionamento do hospital.
+
+Principais funcionalidades:
+
+Cadastro de Pacientes: A secret�ria poder� cadastrar novos pacientes, inserindo informa��es como nome, telefone, endere�o, CPF e especialidade desejada.
+
+Gerenciamento de Consultas: A aplica��o permitir� marcar, desmarcar ou cancelar consultas para os pacientes cadastrados. Ser�o registrados dados como data, hor�rio e m�dico respons�vel pelo atendimento.
+
+Confirma��o de Consultas: Os pacientes poder�o confirmar suas consultas atrav�s do sistema, garantindo assim a efetiva��o do agendamento.
+
+Cadastro de M�dicos: O sistema permitir� o cadastro de m�dicos, incluindo informa��es como nome, CRM, especialidade e hor�rios de atendimento.
+
+Fichas M�dicas: Os m�dicos ter�o acesso �s fichas m�dicas dos pacientes, incluindo exames realizados, hist�rico de consultas, tratamentos em andamento, entre outras informa��es relevantes.
+
+Prontu�rio Eletr�nico do Paciente (PEP): Os pacientes poder�o solicitar seu prontu�rio m�dico a qualquer momento, contendo todos os dados pessoais, medica��es tomadas e exames realizados.
+
+Relat�rios e Estat�sticas: O sistema gerar� relat�rios e estat�sticas sobre o atendimento no hospital, permitindo uma melhor gest�o dos recursos e otimiza��o dos processos.
+
+Controle de Acesso: O sistema contar� com controle de acesso, garantindo que apenas pessoas autorizadas possam visualizar e alterar informa��es sens�veis.
+
+A aplica��o de um Sistema de Gerenciamento Hospitalar proporcionar� uma maior organiza��o e efici�ncia no atendimento aos pacientes, al�m de otimizar o trabalho da equipe m�dica e administrativa, contribuindo para a melhoria da qualidade dos servi�os prestados pelo hospital.
+
+Mini Mundo
+
+A dire��o do hospital deseja informatizar seu controle de Pacientes. Foi informado o seguinte sen�rio: No hospital existem diversas especialidades, cada uma com sua �rea especifica, com isso a secret�ria, devera cadastrar os pacientes, informando nome, telefone, endere�o, CPF e especialidade desejada. Com isso, o Paciente poder� realizar consultas, exames entre outros.O paciente poder� marcar uma consulta, desmarcar ou cancelar a sua consulta.
+
+Sendo assim, a secret�ria dever� verificar se esse paciente existe em seu banco de dados, caso exista, esse ser� agendado a uma consulta que ter�, dia da consulta, hora da consulta e nome do m�dico ao qual receber� atendimento. O paciente dever� confirmar sua consulta. Por�m, caso o paci�nte n�o tenha cadastro no Sistema, dever� ser cadastrado com as informa��es necess�rias para cadastro de pacientes.
+
+Os M�dicos dever�o ter uma ficha com todos os pacientes que ir�o ser atendidos no dia da consulta. Esses dever�o ter no sistema todo o conteudo da ficha desses paci�ntes, incluindo exames feitos, se for primeira consulta, se esta em tratamento entre outros.
+
+Os pacientes Poder�o solicitar a qualquer momento, no hospital, seu prontu�rio m�dico contendo todos os seus dados pessoais, al�m de todas as medica��es tomadas e exames que foram feitos.
